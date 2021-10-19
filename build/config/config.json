@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8f641103f73e86a5f1871ae8Ce36caAFcB1c6e8f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8f641103f73e86a5f1871ae8Ce36caAFcB1c6e8f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "GEM",
+  "SYMBOL": "GEM-OS",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 1,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": false
+}
