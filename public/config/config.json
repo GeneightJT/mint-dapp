@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x8f641103f73e86a5f1871ae8Ce36caAFcB1c6e8f",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8f641103f73e86a5f1871ae8Ce36caAFcB1c6e8f",
+  "CONTRACT_ADDRESS": "0x23540c8da40b67bce7d397727799ae1e215ebceb",
+  "SCAN_LINK": "https://etherscan.io/address/0x23540c8da40b67bce7d397727799ae1e215ebceb",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
-  "NFT_NAME": "GEM",
-  "SYMBOL": "GEM-OS",
+  "NFT_NAME": "Gen Eight Mayhem Origin Story",
+  "SYMBOL": "GEMOS",
   "MAX_SUPPLY": 8888,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/",
   "SHOW_BACKGROUND": false
 }
